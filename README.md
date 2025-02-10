@@ -27,5 +27,5 @@ The project utilizes a Kaggle dataset containing daily statistics on trending Yo
 ## Architecture
 A high-level cloud-based architecture leveraging AWS services for scalable and efficient data processing.
 
-![Data Architecture](architecture.jpeg)
+![Data Architecture](https://drive.google.com/file/d/1mPOZ1Eh7SXQSrcM6tDMOiWV4eotEq8Po/view?usp=sharing)
 
