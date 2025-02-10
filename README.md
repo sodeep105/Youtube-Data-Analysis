@@ -24,8 +24,4 @@ The project utilizes a Kaggle dataset containing daily statistics on trending Yo
 
 [YouTube Trending Videos Dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
-## Architecture
-A high-level cloud-based architecture leveraging AWS services for scalable and efficient data processing.
-
-![Data Architecture](https://drive.google.com/file/d/1mPOZ1Eh7SXQSrcM6tDMOiWV4eotEq8Po/view?usp=sharing)
 
